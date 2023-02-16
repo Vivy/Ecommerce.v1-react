@@ -1,9 +1,11 @@
 .App {
-  text-align: center;
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
-  margin: 0;
+body {
   padding: 0;
-  box-sizing: border-box;
+  margin: 0;
 }
